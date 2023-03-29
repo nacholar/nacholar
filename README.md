@@ -1,8 +1,8 @@
 # 💫 About Me:
-⚒️I'm currently working on an app for architects with an environmental emphasis.<br>
-My biggest perk is developing highly efficient and scalable API's, focusing on writing clean code.<br>
-I'm always looking to learn new technologies and new topics I'm not familiar with. <br>
-Favorite technology: Python <br>
+⚒️ I'm currently working on a desktop app for architects to use when analyzing environmental data from a location.
+📝 Currently learning about Reinforcement Learning
+💡 I'm always looking to learn new technologies and new topics I'm not familiar with.
+✨ Favorite technology: Python
 
 
 ## 🌐 Socials:
