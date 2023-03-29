@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️I'm currently working on an app for architectures with an environmental emphasis.<br>
+⚒️I'm currently working on an app for architects with an environmental emphasis.<br>
 My biggest perk is developing highly efficient and scalable API's, focusing on writing clean code.<br>
 I'm always looking to learn new technologies and new topics I'm not familiar with. <br>
 Favorite technology: Python <br>
