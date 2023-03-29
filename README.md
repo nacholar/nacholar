@@ -1,8 +1,8 @@
 # 💫 About Me:
-⚒️ I'm currently working on a desktop app for architects to use when analyzing environmental data from a location.
-📝 Currently learning about Reinforcement Learning
-💡 I'm always looking to learn new technologies and new topics I'm not familiar with.
-✨ Favorite technology: Python
+⚒️ I'm currently working on a desktop app for architects to use when analyzing environmental data from a location.<br>
+📝 Currently learning about Reinforcement Learning.<br>
+💡 I'm always looking to learn new technologies and new topics I'm not familiar with.<br>
+✨ Favorite technology: Python.<br>
 
 
 ## 🌐 Socials:
