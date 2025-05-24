@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Nacho from <a href="https://en.wikipedia.org/wiki/Chile">🇨🇱</a><br><br>- 🔭 I’m working as a Cloud Engineer<br>- 📚 I'm currently learning about blockchain<br>- ⚡ In my free time I <a href="https://www.strava.com/athletes/nacholar">run 🏃🏻‍♂️ and lift 🏋🏻‍♀️</a></p>
+<p align="left">I'm Nacho from <a href="https://en.wikipedia.org/wiki/Chile" style="text-decoration: none; color: inherit;">🇨🇱</a><br><br>- 🔭 I'm working as a Cloud Engineer<br>- 📚 I'm currently learning about blockchain<br>- ⚡ In my free time I <a href="https://www.strava.com/athletes/nacholar" style="text-decoration: none; color: inherit;">run 🏃🏻‍♂️ and lift 🏋🏻‍♀️</a></p>
 
 ###
 
@@ -38,11 +38,11 @@
 ###
 
 <div align="left">
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   </a>
   <img width="12" />
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   </a>
 </div>
@@ -54,23 +54,23 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   </a>
   <img width="12" />
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </a>
   <img width="12" />
-  <a href="https://nestjs.com/" target="_blank">
+  <a href="https://nestjs.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   </a>
 </div>
@@ -82,19 +82,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   </a>
   <img width="12" />
-  <a href="https://kubernetes.io/" target="_blank">
+  <a href="https://kubernetes.io/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   </a>
   <img width="12" />
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   </a>
   <img width="12" />
-  <a href="https://cloud.google.com/" target="_blank">
+  <a href="https://cloud.google.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   </a>
 </div>
