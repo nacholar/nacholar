@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Nacho from 🇨🇱<br><br>- 🔭 I’m working as a Cloud Engineer<br>- 📚 I'm currently learning about blockchain<br>- ⚡ In my free time I run 🏃🏻‍♂️ and lift 🏋🏻‍♀️</p>
+<p align="left">I'm Nacho from <a href="https://en.wikipedia.org/wiki/Chile">🇨🇱</a><br><br>- 🔭 I’m working as a Cloud Engineer<br>- 📚 I'm currently learning about blockchain<br>- ⚡ In my free time I run 🏃🏻‍♂️ and lift 🏋🏻‍♀️</p>
 
 ###
 
